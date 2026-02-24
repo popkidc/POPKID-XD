@@ -1,10 +1,10 @@
 FROM node:lts-buster
 
 # Clone bot from GitHub
-RUN git clone https://github.com/popkidmd/POPKID-MD.git /root/popkid-md-bot
+RUN git clone https://github.com/popkidc/POPKID-XD.git /root/popkid-xd-bot
 
 # Set working directory
-WORKDIR /root/popkid-md-bot
+WORKDIR /root/popkid-xd-bot
 
 # Install dependencies
 RUN npm install && npm install -g pm2
