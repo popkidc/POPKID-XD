@@ -4,4 +4,4 @@
 ---
 # Zip Here **[Here](https://www.mediafire.com/file/xiwluxlsncup5be/POPKID-MD-BOT.zip/file)**
 ---
-# Deploy here**[Here](https://dashboard.heroku.com/new?template=https://github.com/popkidc/POPKID-XD)**
+# Deploy 👉 **[Here](https://dashboard.heroku.com/new?template=https://github.com/popkidc/POPKID-XD)**
