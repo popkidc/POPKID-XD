@@ -5,9 +5,9 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name POPKID-MD",
-    "stop": "pm2 stop POPKID-MD",
-    "restart": "pm2 restart POPKID-MD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name POPKID-XD",
+    "stop": "pm2 stop POPKID-XD",
+    "restart": "pm2 restart POPKID-XD"
   },
   "dependencies": {
     "@whiskeysockets/baileys":"npm:gifted-baileys@2.0.6",
